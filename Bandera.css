@@ -1,0 +1,30 @@
+div {
+    background-color: firebrick;
+    width: 800px;
+    height: 500px;
+}
+
+div p {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+div div{
+    background-color: navy;
+    height: 250px;
+    position: fixed;
+}
+
+div div div p {
+    border-radius: 100%;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 315px;
+    position: static;
+    width: 170px;
+    height: 170px;
+    color: black;
+    font-size: 65px;
+
+}
